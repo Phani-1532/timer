@@ -1,7 +1,6 @@
 import { useEffect, useState } from 'react';
 import './App.css';
 import Counter from './Counter';
-import Home from './Home';
 
 function App() {
   const endTime = new Date('January 12, 2025 00:00:00').getTime();
